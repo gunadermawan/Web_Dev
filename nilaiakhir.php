@@ -21,6 +21,7 @@
             }else{
                 $indeks = 'E';
             }
+        echo "<h3>Dibawah ini laporan singakt nilai anda !</h3>";
         echo "nilai UTS anda : $uts";
         echo " <br> nilai UAS anda : $uas";
         echo "<br> nilai TGS anda : $tgs";
